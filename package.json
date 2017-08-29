@@ -1,7 +1,7 @@
 {
   "name": "hex-to-rgba",
   "main": "./lib/hex-to-rgba",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "An Atom Package that allows designers to Convert hex code to rgb.",
   "keywords": [],
   "activationCommands": {
