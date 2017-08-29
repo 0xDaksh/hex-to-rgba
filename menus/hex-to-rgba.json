@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Convert hex-to-rgba",
+        "command": "hex-to-rgba:convert"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "hex-to-rgba",
+          "submenu": [
+            {
+              "label": "Convert Selected text to RGBA",
+              "command": "hex-to-rgba:convert"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
