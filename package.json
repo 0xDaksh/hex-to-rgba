@@ -7,7 +7,7 @@
   "activationCommands": {
     "atom-workspace": "hex-to-rgba:convert"
   },
-  "repository": "https://github.com/atom/hex-to-rgba",
+  "repository": "https://github.com/DakshMiglani/hex-to-rgba.git",
   "license": "MIT",
   "author": "Daksh Miglani <hello@dak.sh>",
   "engines": {
